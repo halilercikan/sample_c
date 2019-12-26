@@ -1,0 +1,1 @@
+void convertStrToBcd(u8 *src, int len, u8 *dest, int RL);
